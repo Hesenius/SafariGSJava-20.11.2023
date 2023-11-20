@@ -1,0 +1,42 @@
+My Email: simon@dancingcloudservices.com -- send me your questions!
+My LinkedIn profile: https://www.linkedin.com/in/simonhgroberts/
+
+Upcoming Live Classes:
+======================
+
+December 4, 2023, Java Generics in 4 hours:
+https://learning.oreilly.com/live-events/java-8-generics-in-4-hours/0636920126201/
+
+January 9, 10, 11, 2024,Java SE 17 Developer (1Z0-829) Crash Course:
+https://learning.oreilly.com/live-events/java-se-17-developer-1z0-829-crash-course/0636920079000/
+
+Tentative, not yet confirmed/scheduled:
+
+January 16, Modern Java Exceptions
+
+January 18, Go the Right Way
+
+Pre-recorded Classes:
+=====================
+
+Java SE 17 Developer (1Z0-829) Exam Prep:
+https://learning.oreilly.com/course/java-se-17/9780138194796/
+
+Java Programming Basics:
+https://learning.oreilly.com/course/java-programming-basics/9780133975154/
+
+Java Programming Essentials:
+https://learning.oreilly.com/course/java-programming-essentials/9780137475438/
+
+Core Java Data Types:
+https://learning.oreilly.com/course/core-java-data/9780137368624/
+
+Modern Java Collections:
+https://learning.oreilly.com/course/modern-java-collections/9780134663524/
+
+Functional Programming for Java LiveLessons
+https://learning.oreilly.com/course/functional-programming-for/9780134778235/
+
+Up and Running with the Java Platform Module System (JPMS)
+https://learning.oreilly.com/course/up-and-running/9780137475216/
+
